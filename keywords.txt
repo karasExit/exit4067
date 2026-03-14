@@ -1,0 +1,4 @@
+exit4067  KEYWORD1
+
+switchReg  KEYWORD2
+read  KEYWORD2
